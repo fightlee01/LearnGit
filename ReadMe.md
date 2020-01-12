@@ -1,2 +1,2 @@
 "init project" 
-"test"
+test
